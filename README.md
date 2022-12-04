@@ -1,1 +1,1 @@
-Fitpeo - MVVM + Dagger2
+Fitpeo - MVVM + Hilt with Dagger, Retrofit, Kotlin, Picasso and unit test cases are covered
